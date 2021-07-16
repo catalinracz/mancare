@@ -1,9 +1,20 @@
-export const buttons = {
-  romaneasca: "Românească",
-  italiana: "Italiană",
-  europeana: "Europeană",
-  asiatica: "Asiatică",
-  arabeasca: "Arăbească",
-  mexicana: "Mexicană",
-  americana: "Americană"
-}
+export const button = {
+  romaneasca: 'Românească',
+  italiana: 'Italiană',
+  europeana: 'Europeană',
+  asiatica: 'Asiatică',
+  arabeasca: 'Arăbească',
+  mexicana: 'Mexicană',
+  americana: 'Americană',
+  roma: 'Roma',
+  italy: 'Italy',
+  euro: 'Euro',
+  asiatic: 'Asiatic',
+  arab: 'Arab',
+  mexico: 'Mexico',
+  americo: 'Americo',
+  italiano: 'Italiano',
+  european: 'European',
+  asia: 'Asia',
+  mexic: 'Mexic',
+};
